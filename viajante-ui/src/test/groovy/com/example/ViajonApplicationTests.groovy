@@ -7,9 +7,9 @@ import org.springframework.test.context.junit4.SpringJUnit4ClassRunner
 import org.springframework.test.context.web.WebAppConfiguration
 
 @RunWith(SpringJUnit4ClassRunner)
-@SpringApplicationConfiguration(classes = DemoApplication)
+@SpringApplicationConfiguration(classes = ViajonApplication)
 @WebAppConfiguration
-class DemoApplicationTests {
+class ViajonApplicationTests {
 
 	@Test
 	void contextLoads() {
